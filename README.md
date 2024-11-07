@@ -7,7 +7,7 @@
 | 11.04 | [10844](https://www.acmicpc.net/problem/10844) | DP | 백준 | 실버 1 |
 | 11.05 | [11404](https://www.acmicpc.net/problem/11404) | 그래프 | 백준 | 골드 4 |
 | 11.06 | [1707](https://www.acmicpc.net/problem/1707) | 그래프 | 백준 | 골드 4 |
-| 11.07 |  |  |  |  |
+| 11.07 | [7562](https://www.acmicpc.net/problem/7562) | 그래프 | 백준 | 실버 1 |
 | 11.08 |  |  |  |  |
 | 11.09 |  |  |  |  |
 | 11.10 |  |  |  |  |
