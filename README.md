@@ -9,7 +9,7 @@
 | 11.06 | [1707](https://www.acmicpc.net/problem/1707) | 그래프 | 백준 | 골드 4 |
 | 11.07 | [7562](https://www.acmicpc.net/problem/7562) | 그래프 | 백준 | 실버 1 |
 | 11.08 | [1339](https://www.acmicpc.net/problem/1339) | 그리디 | 백준 | 골드 4 |
-| 11.09 |  |  |  |  |
+| 11.09 | [2156](https://www.acmicpc.net/problem/2156) | DP | 백준 | 실버 1 |
 | 11.10 |  |  |  |  |
 
 ### 11월 2주차
