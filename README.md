@@ -18,7 +18,7 @@
 | 11.11 | [17829](https://www.acmicpc.net/problem/17829) | 재귀 | 백준 | 실버 2 |
 | 11.12 | [2644](https://www.acmicpc.net/problem/2644) | 그래프 | 백준 | 실버 2 |
 | 11.13 | [9935](https://www.acmicpc.net/problem/9935) | 스택 | 백준 | 골드 4 |
-| 11.14 |  |  |  |  |
+| 11.14 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | 백준 | 실버 4 |
 | 11.15 |  |  |  |  |
 | 11.16 |  |  |  |  |
 | 11.17 |  |  |  |  |
