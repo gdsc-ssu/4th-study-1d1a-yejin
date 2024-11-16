@@ -20,7 +20,7 @@
 | 11.13 | [9935](https://www.acmicpc.net/problem/9935) | 스택 | 백준 | 골드 4 |
 | 11.14 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | 백준 | 실버 4 |
 | 11.15 | [3273](https://www.acmicpc.net/problem/3273) | 투포인터 | 백준 | 실버 3 |
-| 11.16 |  |  |  |  |
+| 11.16 | [11054](https://www.acmicpc.net/problem/11054) | DP | 백준 | 골드 4 |
 | 11.17 |  |  |  |  |
 
 ### 11월 3주차
