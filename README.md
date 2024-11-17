@@ -21,7 +21,7 @@
 | 11.14 | [2217](https://www.acmicpc.net/problem/2217) | 그리디 | 백준 | 실버 4 |
 | 11.15 | [3273](https://www.acmicpc.net/problem/3273) | 투포인터 | 백준 | 실버 3 |
 | 11.16 | [11054](https://www.acmicpc.net/problem/11054) | DP | 백준 | 골드 4 |
-| 11.17 |  |  |  |  |
+| 11.17 | [1926](https://www.acmicpc.net/problem/1926) | 그래프 | 백준 | 실버 1 |
 
 ### 11월 3주차
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
