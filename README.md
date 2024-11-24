@@ -32,7 +32,7 @@
 | 11.21 | [1015](https://www.acmicpc.net/problem/1015) | 정렬 | 백준 | 실버 4 |
 | 11.22 | [10825](https://www.acmicpc.net/problem/10825) | 정렬 | 백준 | 실버 4 |
 | 11.23 | [1049](https://www.acmicpc.net/problem/1049) | 그리디 | 백준 | 실버 4 |
-| 11.24 |  |  |  |  |
+| 11.24 | [1057](https://www.acmicpc.net/problem/1057) | 브루트포스 알고리즘 | 백준 | 실버 4 |
 
 ### 11월 4주차
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
