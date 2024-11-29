@@ -41,7 +41,7 @@
 | 11.26 | [2960](https://www.acmicpc.net/problem/2960) | 수학 | 백준 | 실버 4 |
 | 11.27 | [9372](https://www.acmicpc.net/problem/9372) | 트리 | 백준 | 실버 4 |
 | 11.28 | [1780](https://www.acmicpc.net/problem/1780) | 재귀 | 백준 | 실버 2 |
-| 11.29 |  |  |  |  |
+| 11.29 | [1735](https://www.acmicpc.net/problem/1735) | 수학 | 백준 | 실버 3 |
 | 11.30 |  |  |  |  |
 | 12.01 |  |  |  |  |
 
