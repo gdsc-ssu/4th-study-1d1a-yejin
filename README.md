@@ -51,7 +51,7 @@
 | 12.02 | [11052](https://www.acmicpc.net/problem/11052) | DP | 백준 | 실버 1 |
 | 12.03 | [14890](https://www.acmicpc.net/problem/14890) | 구현 | 백준 | 골드 3 |
 | 12.04 | [2193](https://www.acmicpc.net/problem/2193) | DP | 백준 | 실버 3 |
-| 12.05 |  |  |  |  |
+| 12.05 | [6603](https://www.acmicpc.net/problem/6603) | 백트래킹 | 백준 | 실버 2 |
 | 12.06 |  |  |  |  |
 | 12.07 |  |  |  |  |
 | 12.08 |  |  |  |  |
