@@ -52,8 +52,8 @@
 | 12.03 | [14890](https://www.acmicpc.net/problem/14890) | 구현 | 백준 | 골드 3 |
 | 12.04 | [2193](https://www.acmicpc.net/problem/2193) | DP | 백준 | 실버 3 |
 | 12.05 | [6603](https://www.acmicpc.net/problem/6603) | 백트래킹 | 백준 | 실버 2 |
-| 12.06 | [1406](https://www.acmicpc.net/problem/1406) | 스택 | 백준 | 에디터 |
-| 12.07 |  |  |  |  |
+| 12.06 | [1406](https://www.acmicpc.net/problem/1406) | 스택 | 백준 | 실버 2 |
+| 12.07 | [1235](https://www.acmicpc.net/problem/1235) | 구현 | 백준 | 실버 4 |
 | 12.08 |  |  |  |  |
 
 ### 12월 2주차
