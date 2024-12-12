@@ -62,7 +62,7 @@
 | 12.09 | [10830](https://www.acmicpc.net/problem/10830) | 분할정복 | 백준 | 골드 4 |
 | 12.10 | [12865](https://www.acmicpc.net/problem/12865) | DP | 백준 | 골드 5 |
 | 12.11 | [14501](https://www.acmicpc.net/problem/14501) | DP | 백준 | 실버 3 |
-| 12.12 |  |  |  |  |
+| 12.12 | [1058](https://www.acmicpc.net/problem/1058) | 그래프 | 백준 | 실버 2 |
 | 12.13 |  |  |  |  |
 | 12.14 |  |  |  |  |
 | 12.15 |  |  |  |  |
