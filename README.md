@@ -64,5 +64,5 @@
 | 12.11 | [14501](https://www.acmicpc.net/problem/14501) | DP | 백준 | 실버 3 |
 | 12.12 | [1058](https://www.acmicpc.net/problem/1058) | 그래프 | 백준 | 실버 2 |
 | 12.13 | [1189](https://www.acmicpc.net/problem/1189) | 백트래킹 | 백준 | 실버 1 |
-| 12.14 |  |  |  |  |
+| 12.14 | [15655](https://www.acmicpc.net/problem/15655) | 백트래킹 | 백준 | 실버 3 |
 | 12.15 |  |  |  |  |
